@@ -1,0 +1,29 @@
+prod:
+  cms:
+    cms_url: ""
+    cms_login: ""
+    cms_password: ""
+    cms_sys_login: ""
+    cms_sys_password: ""
+  search:
+    search_url: ""
+    engine: ""
+  telegram:
+    bot_url: ""
+    token: ""
+    chat_id: ""
+
+dev:
+  cms:
+    cms_url: ""
+    cms_login: ""
+    cms_password: ""
+    cms_sys_login: ""
+    cms_sys_password: ""
+  search:
+    search_url: ""
+    engine: ""
+  telegram:
+    bot_url: ""
+    token: ""
+    chat_id: ""
